@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
