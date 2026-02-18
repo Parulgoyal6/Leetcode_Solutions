@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
