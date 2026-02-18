@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
