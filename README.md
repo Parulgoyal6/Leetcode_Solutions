@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/1280-students-and-examinations) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
