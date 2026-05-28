@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
@@ -61,5 +62,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
