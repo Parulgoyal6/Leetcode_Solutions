@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
