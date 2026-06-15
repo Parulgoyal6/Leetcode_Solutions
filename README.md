@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -85,4 +86,20 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
