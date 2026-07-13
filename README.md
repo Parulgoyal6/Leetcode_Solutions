@@ -30,6 +30,7 @@
 | [0002-add-two-numbers](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
