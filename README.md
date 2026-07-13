@@ -40,6 +40,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0110-balanced-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -110,15 +112,21 @@
 | [0110-balanced-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
