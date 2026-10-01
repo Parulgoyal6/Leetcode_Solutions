@@ -40,12 +40,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
