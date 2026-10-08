@@ -44,6 +44,7 @@
 | [0020-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Parulgoyal6/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
